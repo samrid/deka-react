@@ -10,7 +10,7 @@ class App extends Component {
           <h1 className="App-title">Welcome to DEKA.in.th</h1>
         </header>
         <p className="App-intro">
-          พบกับ DEKA.in.th เวอร์ชั่นใหม่ เร็วๆ นี้.
+          พบกับ <a href="https://deka.in.th">DEKA.in.th</a> เวอร์ชั่นใหม่ เร็วๆ นี้.
         </p>
       </div>
     );
